@@ -1,4 +1,4 @@
-##NOTE:  
+## NOTE:  
 
 This mod will most likely NOT play nice with other Noita mods because I imported 'player.xml' into the mod in order  
 to change the player loadout when you are spawned into the game.  If other mods rely on the player.xml flie, then  
